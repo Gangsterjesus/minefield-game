@@ -23,3 +23,11 @@ Coming soon via GitHub Pages...
 Just clone the repo and open `index.html` in your browser:
 ```bash
 git clone https://github.com/Gangsterjesus/minefield-game.git
+## 👤 Author
+
+**Raymond Newton**  
+Final-year BSc Computing and IT (Networking & Communications) student at the Open University.  
+Experienced in networking, cybersecurity, and system support, with a strong focus on practical problem-solving and technical mastery.  
+Currently pursuing CCNA and CEH certifications to deepen expertise in secure network architecture and ethical hacking.
+
+🔗 [GitHub Profile](https://github.com/Gangsterjesus)
